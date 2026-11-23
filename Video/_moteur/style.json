@@ -1,0 +1,11 @@
+{
+  "format": "vertical",
+  "sousTitres": { "mode": "boite", "position": 0.62, "police": "Montserrat", "maxMots": 3, "majuscules": false },
+  "couleur": "#FFD400",
+  "texteSurCouleur": "#111111",
+  "coupes": "naturel",
+  "zooms": "cycle",
+  "effets": ["chiffres", "icones"],
+  "sons": "bruitages+musique",
+  "look": "naturel"
+}

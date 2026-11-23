@@ -1,0 +1,21 @@
+TON ESPACE DE MONTAGE
+=====================
+
+1-rushs/            Dépose ici tes vidéos brutes (iPhone, Android, caméra : .mov, .mp4).
+2-scripts/          Optionnel : le texte de ta vidéo. Les sous-titres prendront son orthographe.
+3-assets/images/    Captures d'écran et photos à montrer dans la vidéo.
+3-assets/logos/     Logos des outils ou marques que tu cites (PNG, fond transparent si possible).
+3-assets/musique/   Ta musique de fond (libre de droits).
+3-assets/sons/      Tes bruitages. Sinon, ceux fournis sont utilisés.
+4-videos-montees/   Les vidéos finies arrivent ici.
+MON-STYLE.md        Tes choix de montage. Tu peux les changer quand tu veux : dis-le à Claude.
+_moteur/            Le moteur de montage. Ne pas toucher.
+
+COMMENT MONTER UNE VIDÉO
+1. Mets ton rush dans 1-rushs/.
+2. Dans Claude, écris : « monte ma vidéo ».
+3. Claude ouvre ton storyboard dans le navigateur : une image par moment clé.
+   Écris à côté de chaque image ce que tu veux changer, puis clique sur le bouton.
+4. La vidéo finie arrive dans 4-videos-montees/.
+
+Skill offert par Bariq Rifki (@bariqrifki).
